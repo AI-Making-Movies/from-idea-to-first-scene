@@ -27,10 +27,10 @@ The intent is to document thinking, experiments, and limitations as they arise a
 Topics that belong here include:
 
 - Developing a story or idea toward a *first* scene
-- Writing and planning workflows (markdown, scripts, csv, notes)
-- Use of LLMs for planning, critique, or reflection (e.g. ChatGPT, OpenRouter, Local LLMs for structure and planning)
+- Writing and planning workflows (markdown, scripts, csv use, notes)
+- Use of LLMs for planning, critique, or reflection (e.g. ChatGPT, OpenRouter, Local LLMs)
 - Managing revision, versioning, and process drift (e.g. Git / Gitlab)
-- Storyboarding and visual thinking (e.g. Storyboard Management apps)
+- Storyboarding and visual thinking
 - Toolchains that prioritise accessibility and learning
 
 The emphasis is on **process**, not necessarily polished outcomes.
@@ -75,7 +75,7 @@ This is not a space for:
 - fetish posting
 - sexualised imagery without narrative justification
 
-If NSFW material is part of a story or scene being discussed, it should be handled with care and relevance. Assume users may be young and avoid exposing people to unnecessary scenes. If you aren't sure, then blur it or black it out. There is nothing that can't be achieved with descriptive discussion instead.
+If NSFW material is part of a story or scene being discussed, it should be handled with care and relevance. Assume users may be young.
 
 ---
 
