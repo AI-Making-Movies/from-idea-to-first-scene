@@ -12,6 +12,7 @@ Most people will arrive here via related videos or writing, but participation is
 
 This space is loosely connected to ongoing work shared at:
 
+- https://www.patreon.com/AIMakingMovies
 - https://markdkberry.com  
 - https://www.youtube.com/@markdkberry  
 
